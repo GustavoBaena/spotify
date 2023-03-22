@@ -1,0 +1,14 @@
+img{
+    height: 300px;
+    width: 300px;
+    margin-top: 20px;
+    margin-left: 20px;
+    text-align: center;
+    border-radius: 10px;
+}
+p{
+    background-color: rgb(138, 137, 137);
+    height: 100%;
+    width: 100%;
+    color: rgb(0, 0, 0);
+}
